@@ -16,6 +16,16 @@ nav a{
     margin: 10px;
     text-decoration: none;
 }
+main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 10%;
+}
+.col{
+    width: 48%;
+    margin: 5%;
+}
 
 .contenido{
     text-align: center;
